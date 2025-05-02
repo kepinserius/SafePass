@@ -1,0 +1,33 @@
+# Generated files
+/target/
+Cargo.lock
+
+# Environment variables - contains sensitive information
+.env
+
+# IDE and editor files
+/.idea/
+/.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Backup files
+*.rs.bk
+
+# Debug files
+*.pdb
+
+# Database files
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/ 
