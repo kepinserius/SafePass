@@ -64,7 +64,7 @@ SafePass API is a secure backend service that allows users to store sensitive pa
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/safepass.git
+   git clone https://github.com/kepinserius/safepass.git
    cd safepass
    ```
 
